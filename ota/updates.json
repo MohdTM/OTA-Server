@@ -4,7 +4,7 @@
         {
             "device": "TC1",
             "type": "stable",
-            "version": "mp1V624",
+            "version": "mp1V625",
             "url": "https://raw.githubusercontent.com/MohdTM/OTA-Server/main/ota/builds/full/stable/mssi_64_cn_armv82/build.zip",
             "size": 123456789,
             "datetime": 1733229433,
