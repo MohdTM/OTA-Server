@@ -77,3 +77,8 @@ debug.mtk_tflite.target_nnapi=29
 ro.vendor.mtk_nn.option=A,B,C,D,E,F,G,Z
 ro.vendor.mtk_nn_quant_preferred=1
 # end of file
+####################################
+# Our Updater variables
+####################################
+#ro.lineage.releasetype=stable
+#ro.lineage.build.version=1.0
