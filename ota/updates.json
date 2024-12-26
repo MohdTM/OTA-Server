@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "filename": "build.zip",               
+      "filename": "build.zip",
       "device": "TC1",
       "romtype": "userdebug",
       "version": "mp1V624",
@@ -12,6 +12,5 @@
       "id": "abc123def456ghi7890jkl123mno456"
     }
   ],
-
   "error": null
 }
