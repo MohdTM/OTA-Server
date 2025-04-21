@@ -4,7 +4,7 @@
       "filename": "build.zip",               
       "device": "TC1",
       "romtype": "userdebug",
-      "version": "mp1V624",
+      "version": "new-kernel",
       "url": "https://github.com/MohdTM/OTA-Server/raw/refs/heads/main/ota/builds/full/stable/mssi_64_cn_armv82/build.zip",
       "size": 123456789,
       "datetime": 1744598400,
